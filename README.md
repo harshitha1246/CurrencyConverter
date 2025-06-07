@@ -17,7 +17,7 @@ This is a currency converter web application that fetches real-time data for cur
 
 ## Usage
 
-- Visit the webpage [here](https://alkaison.github.io/Currency-Converter "Currency Converter") to try it out instantly.
+- Visit the webpage [here](https://harshitha1246.github.io/CurrencyConverter/ "Currency Converter") to try it out instantly.
 
 ### Self Deploying 
 
@@ -45,7 +45,7 @@ Please note that you may need to sign up for an API key and update the code with
 
 ## Credits
 
-This project was developed by [Alkaison](https://github.com/Alkaison "GitHub Profile"). If you have any questions or suggestions, feel free to [contact me](https://twitter.com/Alkaison "Twitter Profile").
+This project was developed by [Harshitha](https://github.com/harshitha1246 "GitHub Profile"). If you have any questions or suggestions, feel free to contact me.
 
 ## License
 
